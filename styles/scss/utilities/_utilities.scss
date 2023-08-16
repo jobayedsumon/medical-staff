@@ -1,0 +1,79 @@
+.text-xxs {
+  font-size: 10px;
+}
+
+.text-xs {
+  font-size: 12px;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-theme-SecondaryColor,
+.text-secondary {
+  color: $theme-SecondaryColor !important;
+}
+
+.text-muted {
+  color: $bodyfont-Color;
+}
+
+.rounded-md {
+  border-radius: 8px;
+}
+
+.rounded-lg {
+  border-radius: 12px;
+}
+
+.text {
+  &-error {
+    color: rgb(239 68 68);
+  }
+  &-sm {
+    font-size: 14px !important;
+  }
+  &-xs {
+    font-size: 12px !important;
+  }
+}
+
+.bg {
+  &-secondary {
+    background-color: $theme-SecondaryColor !important;
+  }
+}
+
+.flex-1 {
+  flex: 1 1 0%;
+}
+
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+.mix-blend-multiply {
+  mix-blend-mode: multiply;
+}
+
+.object-fit {
+  &-cover {
+    object-fit: cover;
+  }
+
+  &-contain {
+    object-fit: contain;
+  }
+
+  &-fill {
+    object-fit: fill;
+  }
+}

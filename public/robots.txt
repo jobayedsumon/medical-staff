@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: http://184.168.121.196/~medicaladmin
+
+# Sitemaps
+Sitemap: http://184.168.121.196/~medicaladmin/sitemap.xml

@@ -1,0 +1,13 @@
+.testimonial-section {
+  padding-bottom: 320px !important;
+
+  @media (max-width: 1199px) {
+    padding-bottom: 220px !important;
+  }
+}
+
+.stats_section {
+  #stats {
+    margin-top: -100px;
+  }
+}

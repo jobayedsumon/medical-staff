@@ -1,0 +1,31 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "date_posted": "2022-05-19",
+      "category": "Nursing",
+      "title": "Nurse Unit Manager - Surgical Ward Nurse Unit Manager - Surgical WardNurse Unit Manager - Surgical Ward",
+      "exerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam eLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam euuLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam eu",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam eu massa aliquet ultricies. Donec euismod, nisl vitae aliquam aliquam, nunc nisl aliquet nunc, vi",
+      "featured_image": "/images/news.jpg"
+    },
+    {
+      "id": 2,
+      "date_posted": "2022-05-19",
+      "category": "Nursing",
+      "title": "News 2",
+      "exerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam eu",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam eu massa aliquet ultricies. Donec euismod, nisl vitae aliquam aliquam, nunc nisl aliquet nunc, vi",
+      "featured_image": "/images/news.jpg"
+    },
+    {
+      "id": 3,
+      "date_posted": "2022-05-19",
+      "category": "Nursing",
+      "title": "News 3",
+      "exerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam eu",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae diam eu massa aliquet ultricies. Donec euismod, nisl vitae aliquam aliquam, nunc nisl aliquet nunc, vi",
+      "featured_image": "/images/news.jpg"
+    }
+  ]
+}

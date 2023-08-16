@@ -1,0 +1,478 @@
+{
+  "jobs": [
+    {
+      "id": 2,
+      "date_posted": "2023-04-02",
+      "category": "Nursing",
+      "location": "Victoria",
+      "job_type": "full time",
+      "title": "Clinical Nurse Specialist - Intensive Care Unit",
+      "job_description": "Provide specialized nursing care to critically ill patients in an intensive care unit. Must be able to monitor patients, administer medications and treatments, and collaborate with a multidisciplinary team of healthcare professionals.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with AHPRA as a Registered Nurse",
+        "Minimum 5 years of experience in critical care nursing",
+        "Postgraduate qualification in critical care nursing",
+        "Excellent communication and problem-solving skills",
+        "Ability to work well in a team"
+      ],
+      "extra_information": {
+        "Job Type": "Full Time",
+        "Location": "Victoria",
+        "Offered Salary": "$20k - $40k",
+        "Posted": "2023-04-02",
+        "Experience": "2 Years",
+        "Industry": "Medical",
+        "Qualification": "Masters Degree",
+        "position": 1
+      }
+    },
+    {
+      "id": 3,
+      "date_posted": "2022-05-16",
+      "category": "Medical",
+      "location": "New South Wales",
+      "job_type": "part time",
+      "title": "General Practitioner",
+      "job_description": "We are seeking a General Practitioner to join our medical practice on a part-time basis. As a GP, you will be responsible for providing high-quality primary care to patients of all ages, diagnosing and treating medical conditions, and referring patients to specialists when necessary. The ideal candidate should have excellent communication skills, a patient-centered approach, and be committed to continuous professional development.",
+      "requirements": [
+        "Current AHPRA registration",
+        "FRACGP or equivalent qualification",
+        "Excellent communication and interpersonal skills",
+        "Commitment to continuing professional development"
+      ]
+    },
+    {
+      "id": 4,
+      "date_posted": "2022-05-17",
+      "category": "Aged Care",
+      "location": "Victoria",
+      "job_type": "full time",
+      "title": "Clinical Nurse Consultant - Mental Health",
+      "job_description": "We are seeking an experienced and passionate Clinical Nurse Consultant to join our Mental Health team. As a CNC, you will be responsible for providing clinical leadership and expertise, developing and implementing care plans, and promoting a positive and supportive work environment. The ideal candidate should have at least 5 years of mental health experience, strong leadership skills, and be able to work effectively in a multidisciplinary team.",
+      "requirements": [
+        "Current AHPRA registration as a Registered Nurse",
+        "Minimum of 5 years mental health experience",
+        "Postgraduate qualification in mental health or relevant specialty",
+        "Strong leadership and communication skills"
+      ]
+    },
+    {
+      "id": 5,
+      "date_posted": "2022-05-18",
+      "category": "Dental",
+      "location": "South Australia",
+      "job_type": "full time",
+      "title": "Emergency Medicine Registrar",
+      "job_description": "We are seeking a motivated and skilled Emergency Medicine Registrar to join our busy Emergency Department team. As an EM Registrar, you will be responsible for managing acute medical and surgical presentations, providing resuscitation, and working collaboratively with the team to provide high-quality care. The ideal candidate should have at least 2 years of ED experience, excellent clinical skills, and be able to work effectively under pressure.",
+      "requirements": [
+        "Current AHPRA registration as a Medical Practitioner",
+        "Minimum of 2 years ED experience",
+        "Excellent clinical skills and ability to manage acute medical and surgical presentations",
+        "Ability to work effectively under pressure"
+      ]
+    },
+    {
+      "id": 6,
+      "date_posted": "2022-05-15",
+      "category": "Dental",
+      "location": "Sydney",
+      "job_type": "full time",
+      "title": "Registered Nurse - Intensive Care Unit",
+      "description": "We are seeking a highly skilled and compassionate Registered Nurse to join our Intensive Care Unit team. In this role, you will provide expert care to critically ill patients, monitor their condition, administer medications, and collaborate with a multidisciplinary team. The ideal candidate should have excellent critical thinking and communication skills, be able to work well under pressure, and demonstrate a strong attention to detail.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with the Australian Health Practitioner Regulation Agency (AHPRA)",
+        "Minimum of 2 years of experience in an ICU setting",
+        "Advanced life support certification",
+        "Excellent knowledge of critical care nursing practices and procedures"
+      ]
+    },
+    {
+      "id": 7,
+      "date_posted": "2022-05-16",
+      "category": "Aged Care",
+      "location": "North Terrotory",
+      "job_type": "part time",
+      "title": "General Practitioner",
+      "description": "We are currently seeking a dedicated and experienced General Practitioner to join our clinic in Melbourne. As a GP, you will provide comprehensive primary care services to patients of all ages, diagnose and treat various medical conditions, and manage chronic illnesses. The ideal candidate should have excellent diagnostic skills, be able to build strong patient-doctor relationships, and have a thorough understanding of the Australian healthcare system.",
+      "requirements": [
+        "Medical degree from a recognized institution",
+        "Current registration with the Medical Board of Australia",
+        "Minimum of 3 years of experience as a General Practitioner",
+        "Strong clinical and diagnostic skills",
+        "Excellent communication and interpersonal skills"
+      ]
+    },
+    {
+      "id": 8,
+      "date_posted": "2022-05-17",
+      "category": "Nursing",
+      "location": "Tasmania",
+      "job_type": "full time",
+      "title": "Clinical Nurse Specialist - Mental Health",
+      "description": "We are seeking a highly motivated and experienced Clinical Nurse Specialist to work in our Mental Health department. In this role, you will be responsible for assessing and managing patients with complex mental health needs, developing treatment plans, and providing clinical supervision to junior staff. The ideal candidate should have excellent knowledge of mental health nursing practices and procedures, be able to work well in a multidisciplinary team, and have strong leadership and communication skills.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with the Australian Health Practitioner Regulation Agency (AHPRA)",
+        "Minimum of 5 years of experience in mental health nursing",
+        "Postgraduate qualification in mental health nursing",
+        "Strong leadership and communication skills"
+      ]
+    },
+    {
+      "id": 9,
+      "date_posted": "2022-05-18",
+      "category": "Medical",
+      "location": "Queensland",
+      "job_type": "full time",
+      "title": "Emergency Medicine Registrar",
+      "description": "We are currently seeking an Emergency Medicine Registrar to join our dynamic and supportive team. In this role, you will provide high-quality emergency care to patients, perform procedures, and work collaboratively with the multidisciplinary team. The ideal candidate should have excellent clinical skills, be able to work well under pressure, and have a strong commitment to quality patient care.",
+      "requirements": [
+        "Medical degree from a recognized institution",
+        "Current registration with the Medical Board of Australia",
+        "Minimum of 2 years of experience in emergency medicine",
+        "Demonstrated ability to work well under pressure",
+        "Strong commitment to quality patient care"
+      ]
+    },
+    {
+      "id": 10,
+      "date_posted": "2022-05-19",
+      "category": "Nursing",
+      "location": "Victoria",
+      "job_type": "full time",
+      "title": "Nurse Unit Manager - Surgical Ward",
+      "description": "We are seeking an experienced and dynamic Nurse Unit Manager to lead our Surgical Ward team. In this role, you will be responsible for overseeing patient care, managing staffing levels, and ensuring the ward operates efficiently and effectively. The ideal candidate should have excellent leadership and communication skills, be able to work well in a fast-paced environment, and have a strong commitment to patient-centred care.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with the Australian Health Practitioner Regulation Agency (AHPRA)",
+        "Minimum of 5 years of experience in surgical nursing",
+        "Postgraduate qualification in management or leadership",
+        "Excellent leadership and communication skills"
+      ]
+    },
+    {
+      "id": 11,
+      "date_posted": "2022-05-21",
+      "category": "Nursing",
+      "location": "Tasmania",
+      "job_type": "part time",
+      "title": "Registered Nurse - Palliative Care",
+      "description": "We are seeking a compassionate and skilled Registered Nurse to join our Palliative Care team. In this role, you will provide high-quality nursing care to patients with life-limiting illnesses, manage symptoms, and support patients and their families through end-of-life care. The ideal candidate should have excellent communication skills, be able to work well in a multidisciplinary team, and have a strong commitment to patient-centred care.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with the Australian Health Practitioner Regulation Agency (AHPRA)",
+        "Minimum of 2 years of experience in palliative care nursing",
+        "Excellent communication skills",
+        "Strong commitment to patient-centred care"
+      ]
+    },
+    {
+      "id": 12,
+      "date_posted": "2022-05-22",
+      "category": "Medical",
+      "location": "South Australia",
+      "job_type": "full time",
+      "title": "General Practitioner",
+      "description": "We are seeking a highly motivated and skilled General Practitioner to join our busy medical practice. In this role, you will provide comprehensive medical care to patients of all ages, manage chronic and acute illnesses, and promote preventative health measures. The ideal candidate should have excellent clinical skills, be able to work well in a multidisciplinary team, and have a strong commitment to ongoing professional development.",
+      "requirements": [
+        "Medical degree from a recognized institution",
+        "Current registration with the Medical Board of Australia",
+        "Minimum of 3 years of experience in general practice",
+        "Excellent clinical skills",
+        "Strong commitment to ongoing professional development"
+      ]
+    },
+    {
+      "id": 13,
+      "date_posted": "2022-05-23",
+      "category": "Nursing",
+      "location": "Sydney",
+      "job_type": "part time",
+      "title": "Enrolled Nurse - Rehabilitation",
+      "description": "We are seeking a dedicated and compassionate Enrolled Nurse to work in our Rehabilitation unit. In this role, you will assist in the delivery of nursing care to patients with rehabilitation needs, administer medications and treatments, and provide support to patients and their families. The ideal candidate should have excellent communication and organisational skills, be able to work well in a multidisciplinary team, and have a strong commitment to patient-centred care.",
+      "requirements": [
+        "Diploma of Nursing",
+        "Current registration with the Australian Health Practitioner Regulation Agency (AHPRA)",
+        "Minimum of 1 year of experience in rehabilitation nursing",
+        "Excellent communication and organisational skills",
+        "Strong commitment to patient-centred care"
+      ]
+    },
+    {
+      "id": 14,
+      "date_posted": "2023-04-28",
+      "category": "Nursing",
+      "location": "New South Wales",
+      "job_type": "full time",
+      "title": "Registered Nurse - Emergency Department",
+      "job_description": "Provide high-quality nursing care to patients presenting to the emergency department. Must be able to assess and manage acute medical and surgical conditions, triage patients appropriately, and work well in a fast-paced environment.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with AHPRA",
+        "Minimum 2 years of experience in emergency nursing",
+        "Excellent communication and problem-solving skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 15,
+      "date_posted": "2023-04-26",
+      "category": "Medical",
+      "location": "Victoria",
+      "job_type": "part time",
+      "title": "General Practitioner - Women's Health",
+      "job_description": "Provide comprehensive primary care to female patients of all ages, including preventative health, reproductive health, and management of chronic conditions. Must be able to work collaboratively with other healthcare professionals and provide culturally responsive care.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Minimum 3 years of experience in women's health",
+        "Excellent clinical skills",
+        "Ability to work in a team"
+      ]
+    },
+    {
+      "id": 16,
+      "date_posted": "2023-04-24",
+      "category": "Nursing",
+      "location": "North Terrotory",
+      "job_type": "full time",
+      "title": "Enrolled Nurse - Aged Care",
+      "job_description": "Provide nursing care and support to elderly residents in a residential aged care facility. Must be able to administer medications, assist with activities of daily living, and provide emotional support to residents and their families.",
+      "requirements": [
+        "Diploma of Nursing",
+        "Current registration with AHPRA as an Enrolled Nurse",
+        "Minimum 1 year of experience in aged care nursing",
+        "Excellent communication and interpersonal skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 17,
+      "date_posted": "2023-04-20",
+      "category": "Medical",
+      "location": "Queensland",
+      "job_type": "full time",
+      "title": "Cardiologist",
+      "job_description": "Diagnose and treat heart conditions, including coronary artery disease, arrhythmias, and heart failure. Must be able to interpret diagnostic tests, perform procedures such as cardiac catheterization and angioplasty, and manage complex cases.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Minimum 5 years of experience in cardiology",
+        "Excellent clinical skills",
+        "Ability to work in a team"
+      ]
+    },
+    {
+      "id": 18,
+      "date_posted": "2023-04-16",
+      "category": "Medical",
+      "location": "South Australia",
+      "job_type": "full time",
+      "title": "Emergency Medicine Specialist",
+      "job_description": "Provide specialized medical care to patients presenting to the emergency department. Must be able to diagnose and manage acute medical and surgical conditions, supervise junior medical staff, and work well in a fast-paced environment.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Fellowship of the Australasian College for Emergency Medicine",
+        "Minimum 5 years of experience in emergency medicine",
+        "Excellent clinical skills",
+        "Ability to work in a team"
+      ]
+    },
+    {
+      "id": 19,
+      "date_posted": "2023-04-14",
+      "category": "Nursing",
+      "location": "Tasmania",
+      "job_type": "part time",
+      "title": "Mental Health Nurse",
+      "job_description": "Provide nursing care and support to patients with mental health conditions in an inpatient or community setting. Must be able to assess patients, develop care plans, administer medications, and provide counseling and education to patients and their families.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with AHPRA as a Registered Nurse",
+        "Postgraduate qualification in mental health nursing",
+        "Minimum 2 years of experience in mental health nursing",
+        "Excellent communication and interpersonal skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 20,
+      "date_posted": "2023-04-12",
+      "category": "Medical",
+      "location": "Victoria",
+      "job_type": "full time",
+      "title": "Gastroenterologist",
+      "job_description": "Diagnose and treat conditions affecting the digestive system, including inflammatory bowel disease, liver disease, and gastrointestinal cancers. Must be able to interpret diagnostic tests, perform endoscopic procedures, and manage complex cases.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Minimum 5 years of experience in gastroenterology",
+        "Fellowship of the Royal Australasian College of Physicians",
+        "Excellent clinical skills",
+        "Ability to work in a team"
+      ]
+    },
+    {
+      "id": 21,
+      "date_posted": "2023-04-10",
+      "category": "Nursing",
+      "location": "New South Wales",
+      "job_type": "full time",
+      "title": "Clinical Nurse - Intensive Care",
+      "job_description": "Provide specialized nursing care to critically ill patients in an intensive care unit. Must be able to assess and monitor patients, administer medications and treatments, and provide emotional support to patients and their families.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with AHPRA as a Registered Nurse",
+        "Minimum 3 years of experience in intensive care nursing",
+        "Postgraduate qualification in critical care nursing",
+        "Excellent communication and problem-solving skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 22,
+      "date_posted": "2023-05-01",
+      "category": "Medical",
+      "location": "Sydney",
+      "job_type": "full time",
+      "title": "Oncologist",
+      "job_description": "Provide specialized medical care to patients with cancer. Must be able to diagnose and manage cancer, prescribe chemotherapy or other treatments, and work closely with a multidisciplinary team of healthcare professionals.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Fellowship of the Royal Australasian College of Physicians",
+        "Minimum 5 years of experience in oncology",
+        "Excellent clinical skills",
+        "Ability to work in a team"
+      ]
+    },
+    {
+      "id": 23,
+      "date_posted": "2023-04-30",
+      "category": "Nursing",
+      "location": "South Australia",
+      "job_type": "part time",
+      "title": "Midwife",
+      "job_description": "Provide antenatal, intrapartum, and postnatal care to women and their babies. Must be able to monitor fetal and maternal well-being, provide education and support to mothers, and work well in a multidisciplinary team.",
+      "requirements": [
+        "Bachelor's degree in Nursing or Midwifery",
+        "Current registration with AHPRA as a Registered Nurse and Midwife",
+        "Minimum 2 years of experience in midwifery",
+        "Excellent communication and interpersonal skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 24,
+      "date_posted": "2023-04-29",
+      "category": "Medical",
+      "location": "Tasmania",
+      "job_type": "full time",
+      "title": "Psychiatrist",
+      "job_description": "Provide specialized medical care to patients with mental health conditions. Must be able to diagnose and manage mental illnesses, prescribe medications or other treatments, and work closely with a multidisciplinary team of healthcare professionals.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Fellowship of the Royal Australian and New Zealand College of Psychiatrists",
+        "Minimum 5 years of experience in psychiatry",
+        "Excellent clinical skills",
+        "Ability to work in a team"
+      ]
+    },
+    {
+      "id": 25,
+      "date_posted": "2023-04-28",
+      "category": "Nursing",
+      "location": "New South Wales",
+      "job_type": "full time",
+      "title": "Registered Nurse - Cardiac Catheterization Lab",
+      "job_description": "Provide specialized nursing care to patients undergoing cardiac catheterization procedures. Must be able to monitor patients, administer medications and treatments, and provide emotional support to patients and their families.",
+      "requirements": [
+        "Bachelor's degree in Nursing",
+        "Current registration with AHPRA as a Registered Nurse",
+        "Minimum 3 years of experience in cardiac catheterization nursing",
+        "Postgraduate qualification in cardiac nursing",
+        "Excellent communication and problem-solving skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 26,
+      "date_posted": "2023-05-05",
+      "category": "Medical",
+      "location": "North Terrotory",
+      "job_type": "full time",
+      "title": "General Practitioner",
+      "job_description": "Provide primary medical care to patients of all ages. Must be able to diagnose and treat common medical conditions, provide preventive care and health education, and work well in a team-based environment.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Minimum 2 years of experience in general practice",
+        "Excellent clinical skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 27,
+      "date_posted": "2023-05-04",
+      "category": "Nursing",
+      "location": "Queensland",
+      "job_type": "part time",
+      "title": "Enrolled Nurse - Aged Care",
+      "job_description": "Provide nursing care to elderly residents in a residential aged care facility. Must be able to assist with activities of daily living, administer medications, and work well in a team-based environment.",
+      "requirements": [
+        "Diploma of Nursing",
+        "Current registration with AHPRA as an Enrolled Nurse",
+        "Minimum 1 year of experience in aged care",
+        "Excellent communication and interpersonal skills",
+        "Ability to work well in a team"
+      ]
+    },
+    {
+      "id": 28,
+      "date_posted": "2023-05-03",
+      "category": "Medical",
+      "location": "North Terrotory",
+      "job_type": "full time",
+      "title": "Cardiologist",
+      "job_description": "Provide specialized medical care to patients with heart conditions. Must be able to diagnose and manage heart disease, perform diagnostic tests and procedures, and work closely with a multidisciplinary team of healthcare professionals.",
+      "requirements": [
+        "Medical degree",
+        "Current registration with the Medical Board of Australia",
+        "Fellowship of the Royal Australasian College of Physicians",
+        "Minimum 5 years of experience in cardiology",
+        "Excellent clinical skills",
+        "Ability to work in a team"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "location": "New South Wales",
+      "cover_image": "/images/locations/new-south-wales.png"
+    },
+    {
+      "location": "Queensland",
+      "cover_image": "/images/locations/queensland.png"
+    },
+    {
+      "location": "Victoria",
+      "cover_image": "/images/locations/victoria.png"
+    },
+    {
+      "location": "South Australia",
+      "cover_image": "/images/locations/south-australia.png"
+    },
+    {
+      "location": "North Terrotory",
+      "cover_image": "/images/locations/north-terrotory.png"
+    },
+    {
+      "location": "Tasmania",
+      "cover_image": "/images/locations/tasmania.png"
+    }
+  ]
+}
